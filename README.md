@@ -6,7 +6,7 @@ I’m interested in
 -  **Autonomous Driving** topics related to Collaborative Perception, and Cooperative Driving Automation
 -  **Computer Vision** topics related to 3D Object Detection and PEFT
 
-I have published several papers in top-tier conferences and journals, including the AAAI 2026, AAAI 2025, NIPS 2026, TITS, INS etc.
+I have published several papers in top-tier conferences and journals, including the AAAI 2026, AAAI 2025, NIPS 2025, TITS, INS etc.
 
 Please feel free to send me an email if you are interested in discussing or working together. My email is wqm@my.swjtu.edu.cn.
 
